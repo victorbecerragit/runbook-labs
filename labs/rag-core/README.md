@@ -1,0 +1,1 @@
+# RAG Core Lab\n\nLearn the basics of ingestion, chunking, and retrieval.

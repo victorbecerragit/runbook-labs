@@ -1,0 +1,1 @@
+# RAG Evaluation Lab\n\nImplement metrics to assess RAG quality.

@@ -1,0 +1,1 @@
+# Bedrock Knowledge Bases Lab\n\nSet up fully managed RAG with AWS Bedrock.

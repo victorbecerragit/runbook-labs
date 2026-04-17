@@ -1,0 +1,25 @@
+{
+    "name": "AWS Bedrock Lab Environment",
+    "features": {
+        "ghcr.io/devcontainers/features/aws-cli:1": {}
+    },
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-python.vscode-pylance",
+                "ms-toolsai.jupyter",
+                "amazonwebservices.aws-toolkit-vscode"
+            ]
+        },
+        "codespaces": {
+            "openFiles": [
+                "labs/bedrock-kb/README.md"
+            ]
+        }
+    },
+    "postCreateCommand": "make setup && pip install -r labs/bedrock-kb/requirements.txt"
+}

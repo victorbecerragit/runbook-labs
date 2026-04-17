@@ -1,0 +1,1 @@
+# RAG Observability Lab\n\nTrace execution and monitor RAG pipelines.
