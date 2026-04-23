@@ -51,6 +51,17 @@ LABS: dict[str, LabConfig] = {
             ("01-agent-tools.ipynb", "Bedrock Agents: Tools", "Define action groups and test agent interactions."),
         ],
     },
+    "bedrock-guardrails": {
+        "description": "Create and test Amazon Bedrock Guardrails for prompt safety and PII protection.",
+        "requirements": "boto3>=1.34.14\nipython>=8.0.0\n",
+        "notebooks": [
+            (
+                "00-guardrails-exercise.ipynb",
+                "Amazon Bedrock Guardrails Exercise",
+                "Create and validate Bedrock Guardrails against unsafe prompts and sensitive data.",
+            ),
+        ],
+    },
     "foundations": {
         "description": "Repository onboarding notebooks and a reusable template for new labs.",
         "requirements": "pandas>=2.0.0\n",

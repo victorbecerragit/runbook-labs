@@ -11,6 +11,7 @@ A comprehensive collection of Jupyter-based LLM labs designed to run seamlessly 
 | RAG Observability | `labs/rag-observability/` | Tracing, logging, and monitoring complex LLM applications. |
 | Bedrock Knowledge Bases | `labs/bedrock-kb/` | Setup and usage of managed AWS Bedrock Knowledge Bases. |
 | Bedrock Agents | `labs/bedrock-agents/` | Creating intelligent agents equipped with tools via AWS Bedrock. |
+| Bedrock Guardrails | `labs/bedrock-guardrails/` | Create and test Bedrock Guardrails for blocked topics, PII, and prompt safety. |
 | Foundations | `labs/foundations/` | Environment intro notebook and reusable lab template. |
 | LangChain Intro | `labs/langchain-intro/` | Introductory LangChain walkthrough and concepts. |
 | Prompt Engineering | `labs/prompt-engineering/` | In-context prompting and prompt template techniques. |

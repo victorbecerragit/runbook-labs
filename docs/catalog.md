@@ -15,17 +15,20 @@ An introduction to AWS Bedrock's fully managed RAG solution. Learn to configure 
 ## 5. Bedrock Agents (`labs/bedrock-agents/`)
 Dive into agentic workflows. Build AWS Bedrock Agents, define action groups (tools), and let the LLM execute tasks dynamically based on user intent.
 
-## 6. Foundations (`labs/foundations/`)
+## 6. Bedrock Guardrails (`labs/bedrock-guardrails/`)
+Focuses on Amazon Bedrock Guardrails, including inference profile setup, blocked topics, PII handling, prompt attack filtering, and safe prompt evaluation.
+
+## 7. Foundations (`labs/foundations/`)
 Provides a repo introduction notebook plus a reusable template for authoring new labs in the same structure.
 
-## 7. LangChain Intro (`labs/langchain-intro/`)
+## 8. LangChain Intro (`labs/langchain-intro/`)
 Introduces the LangChain framework, core abstractions, and practical patterns for LLM app development.
 
-## 8. Prompt Engineering (`labs/prompt-engineering/`)
+## 9. Prompt Engineering (`labs/prompt-engineering/`)
 Covers prompt design, in-context learning, and prompt templates for building more reliable LLM workflows.
 
-## 9. RAG with Hugging Face (`labs/rag-huggingface/`)
+## 10. RAG with Hugging Face (`labs/rag-huggingface/`)
 Explores retrieval-augmented generation using Hugging Face components for question answering.
 
-## 10. RAG with PyTorch (`labs/rag-pytorch/`)
+## 11. RAG with PyTorch (`labs/rag-pytorch/`)
 Shows how to build a RAG pipeline with PyTorch-based embeddings and retrieval components.
