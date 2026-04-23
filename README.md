@@ -6,17 +6,18 @@ A comprehensive collection of Jupyter-based LLM labs designed to run seamlessly 
 
 | Lab | Path | Description |
 |---|---|---|
-| RAG Core | `labs/rag-core/` | Fundamentals of Retrieval-Augmented Generation (ingestion, retrieval, generation). |
-| RAG Evaluation | `labs/rag-evaluation/` | Techniques and frameworks for evaluating RAG pipeline quality. |
-| RAG Observability | `labs/rag-observability/` | Tracing, logging, and monitoring complex LLM applications. |
-| Bedrock Knowledge Bases | `labs/bedrock-kb/` | Setup and usage of managed AWS Bedrock Knowledge Bases. |
-| Bedrock Agents | `labs/bedrock-agents/` | Creating intelligent agents equipped with tools via AWS Bedrock. |
-| Bedrock Guardrails | `labs/bedrock-guardrails/` | Create and test Bedrock Guardrails for blocked topics, PII, and prompt safety. |
-| Foundations | `labs/foundations/` | Environment intro notebook and reusable lab template. |
-| LangChain Intro | `labs/langchain-intro/` | Introductory LangChain walkthrough and concepts. |
-| Prompt Engineering | `labs/prompt-engineering/` | In-context prompting and prompt template techniques. |
-| RAG with Hugging Face | `labs/rag-huggingface/` | Retrieval-augmented generation with Hugging Face tooling. |
-| RAG with PyTorch | `labs/rag-pytorch/` | RAG implementation patterns using PyTorch. |
+| RAG Core | [labs/rag-core/](labs/rag-core/) | Fundamentals of Retrieval-Augmented Generation (ingestion, retrieval, generation). |
+| RAG Evaluation | [labs/rag-evaluation/](labs/rag-evaluation/) | Techniques and frameworks for evaluating RAG pipeline quality. |
+| RAG Observability | [labs/rag-observability/](labs/rag-observability/) | Tracing, logging, and monitoring complex LLM applications. |
+| Bedrock Knowledge Bases | [labs/bedrock-kb/](labs/bedrock-kb/) | Setup and usage of managed AWS Bedrock Knowledge Bases. |
+| Bedrock Agents | [labs/bedrock-agents/](labs/bedrock-agents/) | Creating intelligent agents equipped with tools via AWS Bedrock. |
+| Bedrock Foundation Models | [labs/bedrock-foundation-models/](labs/bedrock-foundation-models/) | Core Amazon Bedrock model invocation techniques. |
+| Bedrock Guardrails | [labs/bedrock-guardrails/](labs/bedrock-guardrails/) | Create and test Bedrock Guardrails for blocked topics, PII, and prompt safety. |
+| Foundations | [labs/foundations/](labs/foundations/) | Environment intro notebook and reusable lab template. |
+| LangChain Intro | [labs/langchain-intro/](labs/langchain-intro/) | Introductory LangChain walkthrough and concepts. |
+| Prompt Engineering | [labs/prompt-engineering/](labs/prompt-engineering/) | In-context prompting and prompt template techniques. |
+| RAG with Hugging Face | [labs/rag-huggingface/](labs/rag-huggingface/) | Retrieval-augmented generation with Hugging Face tooling. |
+| RAG with PyTorch | [labs/rag-pytorch/](labs/rag-pytorch/) | RAG implementation patterns using PyTorch. |
 
 See [docs/catalog.md](docs/catalog.md) for detailed lab summaries.
 

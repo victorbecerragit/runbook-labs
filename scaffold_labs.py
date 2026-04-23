@@ -19,6 +19,14 @@ LABS: dict[str, LabConfig] = {
             ("02-retrieval.ipynb", "RAG Core: Retrieval", "Query the vector store and pass context to an LLM."),
         ],
     },
+    "bedrock-foundation-models": {
+        "description": "Invoke Amazon Bedrock foundation models using boto3.",
+        "requirements": "boto3>=1.34.14\n",
+        "notebooks": [
+            ("00-intro.ipynb", "Amazon Bedrock Foundation Models: Introduction", "Introduction to Amazon Bedrock."),
+            ("01-invoke-model.ipynb", "Amazon Bedrock Foundation Models: Invoke", "Invoke a foundation model and process the response."),
+        ],
+    },
     "rag-evaluation": {
         "description": "Implement metrics to assess RAG quality.",
         "requirements": "ragas==0.0.22\n",
